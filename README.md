@@ -1,7 +1,10 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a couple of projects related to microbiome research in the [Waldron Lab](https://github.com/waldronlab).
   - [MicrobiomeBenchmarkData](https://github.com/waldronlab/MicrobiomeBenchmarkData) and related [analyses](https://github.com/waldronlab/MicrobiomeBenchmarkDataAnalyses).
-  - [Bugphyzz](https://github.com/waldronlab/bugphyzz) and related [analyses](https://github.com/waldronlab/bugphyzzAnalyses)
+  - [Bugphyzz](https://github.com/waldronlab/bugphyzz) and related [analyses](https://github.com/waldronlab/bugphyzzAnalyses).
+- 📫 How to reach me:
+  - LinkedIn: [LinkdeIn](https://www.linkedin.com/in/sdgamboa).
+  - Email: `samuel dot gamboa dot tuz at gmail dot com`.
 <!--
 **sdgamboa/sdgamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
