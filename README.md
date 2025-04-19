@@ -5,9 +5,6 @@ research at the [Waldron Lab](https://github.com/waldronlab).
 - [MicrobiomeBenchmarkData](https://github.com/waldronlab/MicrobiomeBenchmarkData)
 and related [analyses](https://github.com/waldronlab/MicrobiomeBenchmarkDataAnalyses).
 - [Bugphyzz](https://github.com/waldronlab/bugphyzz) and related [analyses](https://github.com/waldronlab/bugphyzzAnalyses).
-- 📫 How to reach me:
-  - [LinkedIn](https://www.linkedin.com/in/sdgamboa).
-  - Email to `samuel dot gamboa dot tuz at gmail dot com`.
 
 <!--
 **sdgamboa/sdgamboa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
